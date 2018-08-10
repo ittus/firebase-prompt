@@ -2,7 +2,11 @@
 
 Show current firebase project on terminal prompt
 
-When working on multiple stages (development, staging, production), developer usually use `firebase use [project_id_or_alias]` to switch between projects. It's very easy to run a command on production environment instead of development, which is very dangerous.
+When working on multiple stages (development, staging, production), developers usually use
+
+`firebase use [project_id_or_alias]`
+
+to switch between projects. It's very easy to run a command on production environment instead of development, which is very dangerous.
 
 This script intends to show firebase project name on **shell prompt**. I hope this can help prevent unexpected situation.
 
