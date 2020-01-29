@@ -62,3 +62,6 @@ build_prompt() {
 Then run `source ~/.zshrc` or open new terminal window
 
 ![Demo](/assets/oh_my_zsh.png)
+
+## More Info
+- https://www.freecodecamp.org/news/how-to-show-your-current-firebase-project-name-on-the-command-line-prompt-to-prevent-dangerous-1bfee6293811/
